@@ -8,7 +8,7 @@
 - 💬 Ask me about **Core Java,Spring Boot,Rest API,JPA,Microservices**
 
 - 📫 How to reach me **dikshaSharma11Oct@gmail.com**
-- Naukri: (https://www.naukri.com/mnjuser/profile?id=&altresid)
+- Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 
 <h3 align="left">Connect with me:</h3>
