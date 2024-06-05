@@ -9,9 +9,8 @@
 - Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">dikshaSharma11Oct@gmail.com
-   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
