@@ -10,7 +10,7 @@
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">center=dikshaSharma11Oct@gmail.com>
+<p align="left">dikshaSharma11Oct@gmail.com
    
 </p>
 
