@@ -45,13 +45,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshasharma11oct&show_icons=true&locale=en" alt="dikshasharma11oct" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshasharma11oct&show_icons=true&locale=en&layout=compact" alt="dikshasharma11oct" /></p>
 
-<p>## Projects
+<h2>## Projects</h2>
 Here are a few noteworthy live projects I've worked on:
 1. **Project Name**: Mx Dashboard.
    - Technologies Used: STS,.NetFramework,Rest API,Java 1.8,JPA,Microservices.
-  
 2. **Project Name**: WareHouse.
-   - Technologies Used: STS,.NetFramework,Rest API,Java 1.8,JPA,Microservices.</p>
----
+   - Technologies Used: STS,.NetFramework,Rest API,Java 1.8,JPA,Microservices.
+-----------------------------------------------------------------------------------
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
 
