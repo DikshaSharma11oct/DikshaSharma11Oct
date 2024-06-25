@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
 <h3 align="center">A passionate Backend developer </h3>
 
-- 🌱 I’m currently learning **Caching,Security of Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DikshaSharma11oct](https://github.com/DikshaSharma11oct)
 
 - 💬 Ask me about **Core Java,Spring Boot,Rest API,JPA,Microservices**
