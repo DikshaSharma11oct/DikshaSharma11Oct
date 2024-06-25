@@ -8,8 +8,7 @@
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 
 <h3 align="left">Connect with me on:</h3>
-<p align="left">dikshaSharma11Oct@gmail.com
-</p>
+<p align="left">dikshaSharma11Oct@gmail.com</p>
 
 <h3 align="left">Programming Skills:</h3>
 
@@ -40,10 +39,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DikshaSharma11Oct&label=Profile%20views&color=0e75b6&style=flat" alt="DikshaSharma11Oct" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshasharma11oct&show_icons=true&locale=en&layout=compact" alt="dikshasharma11oct" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshasharma11oct&show_icons=true&locale=en" alt="dikshasharma11oct" /></p>
+
 
 ## Projects
 Here are a few noteworthy live projects I've worked on:
