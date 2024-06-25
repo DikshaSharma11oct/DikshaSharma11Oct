@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
-<h3 align="center">A passionate Backend developer </h3>
+<h3 align="center">A passionate Java Backend Developer </h3>
 
-- 💬Proficient at **Core Java,Spring Boot,Rest API,JPA,Microservices**
+- 💬Proficient at **Core Java,Spring Boot,Rest API,Hibernate/JPA,Microservice,Spring Boot Security**
 - Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 - 👨‍💻 All of my projects are available at [https://github.com/DikshaSharma11oct](https://github.com/DikshaSharma11oct)
