@@ -46,6 +46,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshasharma11oct&show_icons=true&locale=en" alt="dikshasharma11oct" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasharma11oct&" alt="dikshasharma11oct" /></p>
+
 
 ## Projects
 Here are a few noteworthy live projects I've worked on:
