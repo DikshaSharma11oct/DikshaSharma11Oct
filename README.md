@@ -79,7 +79,7 @@
      2. **Project Name**: WareHouse.
         - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
 
-<h3="https://www.flaticon.com/free-icon/linkedin_17485/DikshaSharma11oct" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DikshaSharma11oct?style=social"/>  
+<img alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DikshaSharma11oct?style=social"/>  
 -----------------------------------------------------------------------------------
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
