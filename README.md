@@ -62,14 +62,16 @@
     </tr>
   </thead>
   <tbody>
-     ## Projects
+     
+  </tbody>	 
+</table>
+
+## Projects
      Here are a few noteworthy live projects I've worked on:
      1. **Project Name**: Mx Dashboard.
         - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
      2. **Project Name**: WareHouse.
         - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
-  </tbody>	 
-</table>
 -----------------------------------------------------------------------------------
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
 
