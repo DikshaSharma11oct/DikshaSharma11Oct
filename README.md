@@ -44,13 +44,32 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasharma11oct&" alt="dikshasharma11oct" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshasharma11oct&show_icons=true&locale=en" alt="dikshasharma11oct" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshasharma11oct&show_icons=true&locale=en&layout=compact" alt="dikshasharma11oct" /></p>
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
-## Projects
-Here are a few noteworthy live projects I've worked on:
-1. **Project Name**: Mx Dashboard.
-   - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
-2. **Project Name**: WareHouse.
-   - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Senior Associate Consultant  | [@Infosys](https://www.infosys.com/) | June 2024 - Present |
+| Software Engineer | [@R Systems](https://www.bajajfinservhealth.in/) | Apr 2023 - Jun 2024 |
+
+<h3>Most Popular Open-Source Repositories🔺👑</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+	 <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     ## Projects
+     Here are a few noteworthy live projects I've worked on:
+     1. **Project Name**: Mx Dashboard.
+        - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
+     2. **Project Name**: WareHouse.
+        - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
+  </tbody>	 
+</table>
 -----------------------------------------------------------------------------------
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
 
