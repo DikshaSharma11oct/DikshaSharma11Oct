@@ -79,7 +79,8 @@
      2. **Project Name**: WareHouse.
         - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=DikshaSharma11Oct/&count_private=true&theme=merko&show_icons=true&hide=prs)
+<img src="https://gpvc.arturio.dev/DikshaSharma11Oct/" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DikshaSharma11Oct/?style=social"/> 
 -----------------------------------------------------------------------------------
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
