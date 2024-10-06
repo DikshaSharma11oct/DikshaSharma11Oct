@@ -80,10 +80,6 @@
         - Technologies Used: STS,Visual Studio,Rest API,Java 1.8,JPA,Microservices.
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
-
-<img src="https://gpvc.arturio.dev/DikshaSharma11Oct" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DikshaSharma11Oct?style=social"/> 
-<p   align="center" >
-<a href="https://www.buymeacoffee.com/DikshaSharma11Oct" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>	
 -----------------------------------------------------------------------------------
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
